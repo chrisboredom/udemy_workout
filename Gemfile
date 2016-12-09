@@ -14,6 +14,8 @@ gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.5', '>= 3.5.2'
+  gem 'guard-rspec', '~> 4.7', '>= 4.7.3', require: false
+  gem 'spring-commands-rspec'
   gem 'byebug', platform: :mri
 end
 

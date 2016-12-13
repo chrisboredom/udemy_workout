@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'autoprefixer-rails', '~> 6.5', '>= 6.5.3.1'
 gem 'devise', '~> 4.2'
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 
 
 group :development, :test do
